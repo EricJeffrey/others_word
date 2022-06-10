@@ -2,6 +2,8 @@
 
 ## 它山之石可以攻玉
 
+- 只有让人民来监督政府，政府才不敢松懈，只有人人起来负责，才不会人亡政息 —— 毛主席
+
 - 如果一个人习惯了轻松成功，可能就无法培养处理真正困难的问题所必需的耐心。 - 陶哲轩《做数学必须是天才吗》[via](https://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
 
 - 企业内部软件通常非常臃肿，原因是团队之间很难共享代码。企业是自上而下管理的，每个团队的经理管不到其他团队，这造成团队之间的沟通非常难。如果你将某个功能委托给内部的另一个团队，会带来大量的沟通和计划成本，并使你的开发计划依赖于别人，所以还不如自己动手，这导致了代码臃肿。 - [via](https://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html), [via-via](https://www.mailbox.my/blog/posts/why-enterprise-software-is-bloated/)
