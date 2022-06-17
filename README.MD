@@ -2,6 +2,10 @@
 
 ## 它山之石可以攻玉
 
+- 复杂系统的崩溃往往发生在经济收缩期。2022年6月17日，经济收缩期 - [via](https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
+
+- 对于那些没有想象力的人来说，保持常态就是他们的理想。- 荣格[via](https://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)
+
 - 只有让人民来监督政府，政府才不敢松懈，只有人人起来负责，才不会人亡政息 —— 毛主席
 
 - 如果一个人习惯了轻松成功，可能就无法培养处理真正困难的问题所必需的耐心。 - 陶哲轩《做数学必须是天才吗》[via](https://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)
