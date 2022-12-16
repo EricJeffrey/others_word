@@ -2,6 +2,8 @@
 
 ## 它山之石可以攻玉
 
+- 不分心的一天是非常漫长的一天。A day without distractions is a very long day. - [via](https://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)
+
 - 顺，不妄喜；逆，不惶馁；安，不奢逸；危，不惊惧；胸有惊雷而面如平湖者，可拜上将军。
 
 - 生年不满百，常怀千岁忧。昼短苦夜长，何不秉烛游！为乐当及时，何能待来兹？愚者爱惜费，但为後世嗤。仙人王子乔，难可与等期。
